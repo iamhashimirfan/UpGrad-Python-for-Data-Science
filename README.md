@@ -1,4 +1,4 @@
-# sharing-github
+# python_courses
 The Jupyter Notebooks for the courses
 
 1.Cognitiveclass - Python for Data Science PY0101EN
